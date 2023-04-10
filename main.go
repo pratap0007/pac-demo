@@ -2,5 +2,5 @@ package main
 import "fmt"
 
 func main(){
-fmt.Println("Pac Demo is running....")
+fmt.Println("Pac console Demo is running....")
 }
